@@ -1,0 +1,2 @@
+cryptography>=42
+keyring>=25      # optional: OS keystore (Windows Credential Locker / macOS Keychain / Secret Service)
