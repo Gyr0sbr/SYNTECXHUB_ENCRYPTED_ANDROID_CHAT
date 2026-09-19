@@ -51,7 +51,7 @@ clears it and asks you to set up again.
   size) and could drop, delay or replay messages. Add TLS and signed sequence numbers.
 - **Not audited**: learning prototype. Use a vetted protocol/library for production.
 
-## Android?
+## Android
 The Python code runs on desktop. To ship it on Android you'd package the client with Kivy/Buildozer
 and reach the Android Keystore via pyjnius. The native Kotlin version from earlier already does this
 properly with the hardware-backed Keystore.
