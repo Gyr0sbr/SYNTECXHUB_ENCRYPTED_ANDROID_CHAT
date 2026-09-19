@@ -1,4 +1,4 @@
-# SecureChat (Python): encrypted chat prototype
+# SecureChat (Python): encrypted android chat
 
 Client/server chat where every message is encrypted with **AES-256-GCM on the client**.
 The relay server only ever sees ciphertext. Tkinter GUI + terminal client.
